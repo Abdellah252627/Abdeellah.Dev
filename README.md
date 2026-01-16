@@ -1,4 +1,4 @@
-# Portfolio - Abdullah Mahmiti
+# Portfolio - Abdullah Mouhamiti
 
 A modern, responsive personal portfolio website built with **React.js** and **Bootstrap**. This project showcases my expertise as a Full Stack JavaScript Developer & E-commerce Architect, featuring professional experience, technical skillsets, and specialized projects with a clean and interactive UI.
 

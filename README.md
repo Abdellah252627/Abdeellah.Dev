@@ -51,7 +51,7 @@ src/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Abdellah252627/Abdeellah.DDev.git
+   git clone https://github.com/Abdellah252627/Abdeellah.Dev.git
    ```
 
 2. **Install dependencies**:

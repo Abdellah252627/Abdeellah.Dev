@@ -18,7 +18,7 @@ My expertise lies at the intersection of commerce and efficiency. I focus on dev
 I don't just write code; I build solutions that deliver clean, maintainable code and an exceptional digital experience that empowers users and scales with their ambitions.
 
 ## 🚀 Live Demo
-You can find the live version of this portfolio here: [vmDeshpande.github.io](https://vmdeshpande.github.io/) (if deployed)
+You can find the live version of this portfolio here: [Abdellah252627.github.io](https://Abdellah252627.github.io/Abdeellah.DDev/) (if deployed)
 
 ## ✨ Features
 - **Responsive Layout**: Optimized for desktop, tablet, and mobile devices.
@@ -51,7 +51,7 @@ src/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/vmDeshpande/Portfolio.git
+   git clone https://github.com/Abdellah252627/Abdeellah.DDev.git
    ```
 
 2. **Install dependencies**:
@@ -70,4 +70,4 @@ src/
    ```
 
 ---
-Built with ❤️ by [Abdullah Mahmiti](https://github.com/your-username)
+Built with ❤️ by [Abdellah Mouhmiti](https://github.com/Abdellah252627)

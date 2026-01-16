@@ -27,7 +27,7 @@ function Projects() {
               isBlog={false}
               title="Harmful URL Detector"
               description="URL Scanner is a simple web application that checks the safety of URLs using the VirusTotal API. It stores the results in a MongoDB database to avoid redundant checks for the same URL."
-              ghLink="https://github.com/vmDeshpande/HarmfulURLDetector"
+              ghLink="https://github.com/Abdellah252627/HarmfulURLDetector"
             />
           </Col>
 
@@ -37,7 +37,7 @@ function Projects() {
               isBlog={false}
               title="Environmental Data Analyst "
               description="This project is a weather application that provides real-time weather information based on user input. It also includes a feedback system where users can submit their feedback, which is then stored in a MongoDB database."
-              ghLink="https://github.com/vmDeshpande/ENVIRONMENT_DATA_ANALYSIS"
+              ghLink="https://github.com/Abdellah252627/ENVIRONMENT_DATA_ANALYSIS"
             />
           </Col>
 
@@ -47,7 +47,7 @@ function Projects() {
               isBlog={false}
               title="Jobify"
               description="This project is a Job Application System that allows companies to post job listings and receive applications from potential candidates."
-              ghLink="https://github.com/vmDeshpande/JOBIFY"      
+              ghLink="https://github.com/Abdellah252627/JOBIFY"      
             />
           </Col>
 
@@ -57,7 +57,7 @@ function Projects() {
               isBlog={false}
               title="ECommerce Chatbot"
               description="The ECommerce Chatbot is designed to enhance online shopping experiences, offering users the ability to query products, get recommendations, and resolve common issues through an intuitive chat interface. Built with HTML, CSS, JavaScript, Node.js, and MongoDB, this project aims to demonstrate how chatbots can improve customer service and engagement in an eCommerce setting."
-              ghLink="https://github.com/vmDeshpande/ECommerce-Chatbot"
+              ghLink="https://github.com/Abdellah252627/ECommerce-Chatbot"
             />
           </Col>
 
@@ -67,7 +67,7 @@ function Projects() {
               isBlog={false}
               title="Hospital Management System"
               description="A simple Hospital Management System implemented using HTML, CSS, JavaScript (Node.js with Express), and MongoDB."
-              ghLink="https://github.com/vmDeshpande/Hospital-management-system"
+              ghLink="https://github.com/Abdellah252627/Hospital-management-system"
               // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
             />
           </Col>
@@ -78,7 +78,7 @@ function Projects() {
               isBlog={false}
               title="Digital E Gram Panchayat"
               description="The major goal of this project is to improve the delivery of citizen services in the village by computerizing applications for gram panchayat services. Gram panchayat is a decentralized institution that manages applications and provides information about gram panchayat services. The suggested system will allow users to submit applications for various services and track their progress. The suggested system E-Services for Gram Panchayath develops a web application with the goal of providing government information about services or schemes, and public users can apply for services using an online application. Admin and staff will manage the application for approval and creation of the scheme."
-              ghLink="https://github.com/vmDeshpande/Digital-E-Gram-Panchayat"
+              ghLink="https://github.com/Abdellah252627/Digital-E-Gram-Panchayat"
               // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
             />
           </Col>
